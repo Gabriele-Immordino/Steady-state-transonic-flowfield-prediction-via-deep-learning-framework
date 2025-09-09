@@ -41,9 +41,8 @@ Ensure the following scripts are executed in the proper sequence:
 
    ```bash
    main.ipynb
-````
 
-This is the principal implementation for generic steady-state flowfield prediction using supervised learning.
+   This is the principal implementation for generic steady-state flowfield prediction using supervised learning.
 
 2. **Static Deformation Prediction (Application to Aeroelastic Case)**
 
@@ -62,7 +61,7 @@ This is the principal implementation for generic steady-state flowfield predicti
    Implements non-intrusive polynomial chaos expansion to propagate uncertainty in Mach and AoA through the trained network for BSCW test case.
 
 Citation
-
+-------------
 If you use this code or dataset in your research, please cite:
 G. Immordino, A. Da Ronch, and M. Righi.  
 Steady-state transonic flowfield prediction via deep-learning framework.  
