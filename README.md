@@ -63,6 +63,7 @@ Ensure the following scripts are executed in the proper sequence:
 Citation
 -------------
 If you use this code or dataset in your research, please cite:
+
 G. Immordino, A. Da Ronch, and M. Righi.  
 Steady-state transonic flowfield prediction via deep-learning framework.  
 AIAA Journal, pages 1–17, 2024.  
