@@ -61,6 +61,14 @@ This is the principal implementation for generic steady-state flowfield predicti
 
    Implements non-intrusive polynomial chaos expansion to propagate uncertainty in Mach and AoA through the trained network for BSCW test case.
 
+Citation
+
+If you use this code or dataset in your research, please cite:
+G. Immordino, A. Da Ronch, and M. Righi.  
+Steady-state transonic flowfield prediction via deep-learning framework.  
+AIAA Journal, pages 1–17, 2024.  
+https://doi.org/10.2514/1.J063545
+
 
 Author: Gabriele Immordino
 
